@@ -54,9 +54,9 @@ Every time a rep is counted, its rep number and the corresponding timestamp with
 ## Tech Stack
 
 - **Python**
-- **OpenCV** — video reading, frame processing, drawing overlays, and writing the output video
-- **Mediapipe** — pose estimation model providing body landmark detection
-- **NumPy** — vector and angle calculations
+- **OpenCV** video reading, frame processing, drawing overlays, and writing the output video
+- **Mediapipe** pose estimation model providing body landmark detection
+- **NumPy** vector and angle calculations
 
 ## Project Structure
 
